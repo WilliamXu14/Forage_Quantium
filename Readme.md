@@ -13,3 +13,5 @@ selecting control stores and compare it to the trial stores.
 
 # Task 3
 Summarize all finding in a powerpoint.
+
+Note: Since the data files are too large, it won't be uploaded.
